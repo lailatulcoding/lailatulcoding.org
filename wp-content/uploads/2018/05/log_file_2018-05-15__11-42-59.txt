@@ -1,0 +1,128 @@
+
+---Downloaded files---
+The import files for: Rara Business Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://lailatulcoding.org
+Data file = /home/u349110507/public_html/wp-content/uploads/rara-demo-pack/rara-business-demo-content/content/rarabusiness.xml
+Widget file = /home/u349110507/public_html/wp-content/uploads/rara-demo-pack/rara-business-demo-content/content/rarabusiness.wie
+Customizer file = /home/u349110507/public_html/wp-content/uploads/rara-demo-pack/rara-business-demo-content/content/rarabusiness.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Rara: Image Widget - Merissa Lohan - Imported
+Rara: Popular Post - Popular Post - Imported
+Rara: Social Media - Subscribe and Follow - Imported
+Rara: Posts Category Slider - Featured Today - Imported
+RARA: Latest Tweets - Recent Tweets - Imported
+Rara: Recent Post - Recent Posts - Imported
+
+Services Widget : 
+
+Text - Our Services - Imported
+Rara: Icon Text - Planning - Imported
+Rara: Icon Text - Super Ideas - Imported
+Rara: Icon Text - SEO &amp; Advertising - Imported
+Rara: Icon Text - Responsive Design - Imported
+Rara: Icon Text - Creative Direction - Imported
+Rara: Icon Text - Coding &amp; Development - Imported
+
+About Widget : 
+
+Rara: A Featured Page Widget - Who We Are? - Imported
+
+Why Choose Us Widget : 
+
+Text - Why Choose Us? - Imported
+Rara: Icon Text - Secure Platform - Imported
+Rara: Icon Text - Easy to Use - Imported
+Rara: Icon Text - Creative Solutions - Imported
+Rara: Icon Text - Unlimited Hosting Space - Imported
+Image - No Title - Imported
+
+Team Widget : 
+
+Text - Creative Leaders - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+
+Testimonial Widget : 
+
+Text - Clients Testimonials - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+
+Stat Counter Widget : 
+
+Text - Our Stats - Imported
+Rara: Stat Counter Widget - Completed Project - Imported
+Rara: Stat Counter Widget - Coffee Cups - Imported
+Rara: Stat Counter Widget - Valid Customers - Imported
+Rara: Stat Counter Widget - Award Recognizition - Imported
+
+Call To Action Widget : 
+
+Rara: Call To Action - Try Premium for free - Imported
+
+FAQs Widget : 
+
+Text - FAQs - Imported
+Rara: FAQs - No Title - Imported
+
+Clients Widget : 
+
+Rara: Client Logo - Client&#039;s Logo Section - Imported
+
+Footer One : 
+
+Text - No Title - Imported
+
+Footer Two : 
+
+Navigation Menu - Our Company - Imported
+
+Footer Three : 
+
+Rara: Recent Post - Recent Posts - Imported
+
+Footer Four : 
+
+Rara: Social Media - Subscribe and Follow - Imported
+Newsletter Minimal - Subscribe Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
